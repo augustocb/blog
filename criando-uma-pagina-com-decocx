@@ -1,5 +1,4 @@
-Minha experiência criando uma página com deco.cx
-================================================
+# Minha experiência criando uma página com deco.cx
 
 Recriando a página da deno-land utilizando a plataforma da deco.cx com as tecnologias: Deno, Fresh, Preact e Twind.
 
@@ -9,22 +8,19 @@ Guilherme Tavano
 
 ![Minha experiência criando uma página com deco.cx](https://tavanoblog.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Ftavanoblog%2Fe9e653f9-966a-4faa-a206-63a85f82f5f5_deco-cx-deno-land.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75)
 
-Desafio
--------
+## Desafio
 
 Recentemente aceitei um desafio e quero compartilhar como foi a minha experiência.
 
 O desafio era reconstruir a Home da [https://deno.land/](https://deno.land/) utilizando a plataforma deco.cx como CMS.
 
-O que é deco.cx?
-----------------
+## O que é deco.cx?
 
 É uma plataforma criada por um time de pessoas que trabalharam na Vtex, para construir páginas e lojas virtuais performáticas e em um curto período de tempo.
 
 Com o slogan "Crie, teste e evolua sua loja. Todos os dias.", a plataforma foca na simplicidade no desenvolvimento, autonomia para edições/testes e foco em performance.
 
-Primeira etapa - Conhecendo a Stack
------------------------------------
+## Primeira etapa - Conhecendo a Stack
 
 Antes de iniciar o desenvolvimento, precisei correr atrás das tecnologias que a deco.cx sugere para utilização.
 
@@ -56,8 +52,7 @@ A adaptação é extremamente fácil para quem já trabalha com Tailwind, mas n�
 
 Pequenos gargalos no começo, mas a curva de aprendizagem é curta e nas últimas seções eu já estava sentindo os efeitos (positivos).
 
-Segunda Etapa - Conhecendo a ferramenta da deco.cx
---------------------------------------------------
+## Segunda Etapa - Conhecendo a ferramenta da deco.cx
 
 Meu objetivo aqui, era entender como a ferramenta me ajudaria a recriar a página deno.land, tornando os componentes editáveis pelo painel CMS.
 
@@ -91,8 +86,7 @@ Dessa forma, fica fácil para uma pessoa não técnica conseguir criar novas pá
 
 Mas para entender como criar um modelo de seção, vamos para a terceira etapa.
 
-Terceira Etapa - Integração do Código com a deco.cx
----------------------------------------------------
+## Terceira Etapa - Integração do Código com a deco.cx
 
 Como eu tinha o objetivo de tornar as seções da página editáveis, eu precisei entender como isso deveria ser escrito no código.
 
@@ -140,8 +134,7 @@ Isso faz com que os campos editáveis do painel se baseiem no código feito no l
 
 Garantindo a possibilidade de testes durante a criação.
 
-Resultado Final + Conclusão
----------------------------
+## Resultado Final + Conclusão
 
 O resultado final, pode ser conferido em: [https://deno-land.deco.site/](https://deno-land.deco.site/)
 
