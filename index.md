@@ -1,5 +1,13 @@
-# Artigos
-
 ## [A vida é curta](/blog/pg-vb-pt-br.md)
 
 Por Paul Graham, traduzido por ChatGPT.
+
+
+
+![Minha experiência criando uma página com deco.cx](https://tavanoblog.com.br/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Ftavanoblog%2Fe9e653f9-966a-4faa-a206-63a85f82f5f5_deco-cx-deno-land.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75)
+
+## [Minha experiência criando uma página com deco.cx](/blog/criando-uma-pagina-com-decocx.md)
+
+#### Recriando a página da deno-land utilizando a plataforma da deco.cx com as tecnologias: Deno, Fresh, Preact e Twind.
+
+Por Guilherme Tavano
